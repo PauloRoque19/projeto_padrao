@@ -66,4 +66,4 @@ O padrão Mediator tem os seguintes benefícios e problemas:
 
 ### Exemplo: 
 
-XXXX
+https://github.com/PauloRoque19/projeto_padrao
